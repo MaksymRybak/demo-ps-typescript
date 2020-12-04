@@ -1,6 +1,6 @@
 interface Result {
   playerName: string;
   score: number;
-  probleamCount: number;
+  problemCount: number;
   factor: number;
 }
